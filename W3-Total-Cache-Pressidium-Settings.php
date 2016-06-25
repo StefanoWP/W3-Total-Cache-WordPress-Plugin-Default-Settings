@@ -63,7 +63,7 @@ return array(
 	'objectcache.file.gc' => 3600,
 	'objectcache.file.locking' => false,
 	'objectcache.memcached.servers' => array(
-		0 => '127.0.0.1:11211',
+		0 => '127.0.0.1',
 	),
 	'objectcache.memcached.persistant' => true,
 	'objectcache.groups.global' => array(
