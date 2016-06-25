@@ -107,7 +107,7 @@ return array(
 	'pgcache.file.locking' => false,
 	'pgcache.lifetime' => 3600,
 	'pgcache.memcached.servers' => array(
-		0 => '127.0.0.1:11211',
+		0 => '127.0.0.1',
 	),
 	'pgcache.memcached.persistant' => true,
 	'pgcache.check.domain' => false,
